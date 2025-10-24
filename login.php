@@ -5,7 +5,7 @@ session_start();
 $host = 'localhost';
 $dbname = 'user_auth';
 $username = 'root';
-$password = '5726';
+$password = '';
 
 // Handle form submissions
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
